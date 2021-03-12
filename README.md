@@ -1,2 +1,2 @@
 # msid21
-metody systemowe i decyzyjne
+metody systemowe i decyzyjne są głupie
